@@ -12,6 +12,7 @@ JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
+NPZ = "15e1cf62-19b3-5cfa-8e77-841668bca605"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 QPSReader = "10f199a5-22af-520b-b891-7ce84a7b1bd0"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
@@ -22,3 +23,4 @@ StructTypes = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
 
 [compat]
 MathOptInterface = "1.34.0"
+NPZ = "0.4.3"
