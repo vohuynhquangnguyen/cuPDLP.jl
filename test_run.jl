@@ -14,7 +14,7 @@ using LinearAlgebra   # for dot()
 ################################################################################
 # 2. Read your already-decompressed MPS file into the internal QP type
 # qp = cuPDLP.qps_reader_to_standard_form("qap15.mps")
-qp = cuPDLP.qps_reader_to_standard_form("problems/relaxed_pk1.mps")
+qp = cuPDLP.qps_reader_to_standard_form("problems/relaxed/relaxed_gen-ip054.mps")
 
 
 ################################################################################

@@ -3,7 +3,9 @@
 # convert_to_canonical.jl
 #
 # Usage (from a shell or VS Code integrated terminal):
-#   julia --project=@. convert_to_canonical.jl INPUT.mps OUTPUT.npz
+# julia --project=@. .\convert_to_canonical.jl `
+#      .\problems\relaxed\{problem_name}.mps `
+#      .\problems\converted\{problem_name}.npz
 ################################################################################
 
 # 1) Activate & instantiate your environment (one-time)
